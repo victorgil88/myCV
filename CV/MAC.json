@@ -35,6 +35,96 @@
       }
     ]
   },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "Spanish"
+      },
+      {
+        "name": "English"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "Python",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Docker",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Kubernetes",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Azure",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "API",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Git",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Flask",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Google Data Studio",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Scala",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Power BI",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Tableau",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Qlik",
+          "type": "technology"
+        }
+      }
+    ]
+  },
   "careerPreferences": {
     "contact": {
       "publicProfiles": [
