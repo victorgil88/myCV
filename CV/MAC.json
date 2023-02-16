@@ -66,25 +66,13 @@
       },
       {
         "skill": {
-          "name": "Tableau",
+          "name": "Qlik",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Python",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "API",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "JavaScript",
+          "name": "Google Cloud",
           "type": "technology"
         }
       },
@@ -96,25 +84,43 @@
       },
       {
         "skill": {
-          "name": "Google Data Studio",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Qlik",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "Docker",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Flask",
+          "name": "Looker",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Tableau",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Google Data Studio",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "BigQuery",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "API",
           "type": "technology"
         }
       },
@@ -126,13 +132,19 @@
       },
       {
         "skill": {
-          "name": "Kubernetes",
+          "name": "Zoho",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Scala",
+          "name": "Python",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SQL",
           "type": "technology"
         }
       }
