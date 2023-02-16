@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "EN",
+    "language": "ES",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -9,105 +9,50 @@
       "name": "Víctor",
       "surnames": "Gil Payán",
       "title": "Data Lover and blockchain superfan",
-      "description": "Talented, hard worker and all-rounder Data Lover, specialized in Business Intelligence and Data\nVisualization. I also work in Big Data, Data Governance and Data Science projects. I am able to\nwork well in a team and independently. I am used to managing under pressure besides being\nopen-minded and reliable. I am multidisciplinary with high knowledge of new technologies\nincluding crypto & blockchain. I have a high adaptation and learning capacity.\nI am a technology enthusiast, always ready to learn something new.\nSince December 2013, when I discovered Bitcoin and blockchain, I have been investigating and\nstudying around them. I am now running some nodes from different blockchains.",
+      "description": "",
       "location": {
-        "notes": "Madrid"
+        "country": "España",
+        "region": "Comunidad de Madrid",
+        "municipality": "Madrid",
+        "notes": "Autocompleted using Google Maps API"
       }
     },
     "relevantLinks": [
       {
-        "type": "linkedin",
-        "URL": "https://www.linkedin.com/in/victorgilpayan/"
-      },
-      {
         "type": "other",
         "URL": "https://public.tableau.com/profile/victorgil88#!/"
+      },
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/victorgilpayan/"
       }
     ],
     "interestingFacts": [
       {
-        "topic": "Sports",
-        "fact": "I love doing sport, any kind of sport. I have practiced:\n- Soccer\n- Running\n- Swimming\n- Crossfit / Crosstraining\n- Powerlifting & Weightlifting\n- Tennins & Paddel\n- Climbing"
-      },
-      {
         "topic": "Crypto & Blockchain",
         "fact": "I am really interested in everything related to this technology. I have been running different nodes (even a pool) for some blockchains like:\n- Bitcoin\n- Litecoin\n- Dogecoin\n- Vertcoin\nAnd of course, I have some experienced with exchanges (centralized and decentralized), DeFi, mining (PoW & PoS), ...\n\nMy last challenge is to install a Bitcoin Lightnighting Node in my Raspberry Pi 4 and use it to pay."
+      },
+      {
+        "topic": "Sports",
+        "fact": "I love doing sport, any kind of sport. I have practiced:\n- Soccer\n- Running\n- Swimming\n- Crossfit / Crosstraining\n- Powerlifting & Weightlifting\n- Tennins & Paddel\n- Climbing"
       }
     ]
   },
   "knowledge": {
     "languages": [
       {
-        "name": "Spanish"
+        "name": "English",
+        "level": "Limited working proficiency"
       },
       {
-        "name": "English"
+        "name": "Spanish",
+        "level": "Limited working proficiency"
       }
     ],
     "hardSkills": [
       {
         "skill": {
-          "name": "Python",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "JavaScript",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Docker",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Kubernetes",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "Azure",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "API",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Git",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Flask",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Google Data Studio",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Scala",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Power BI",
           "type": "technology"
         }
       },
@@ -119,7 +64,67 @@
       },
       {
         "skill": {
+          "name": "Python",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "API",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Microsoft Power BI",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Google Data Studio",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Qlik",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Docker",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Flask",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Git",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Kubernetes",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Scala",
           "type": "technology"
         }
       }
@@ -133,6 +138,18 @@
           "URL": "https://www.linkedin.com/in/victorgilpayan/"
         }
       ]
-    }
+    },
+    "preferences": {
+      "preferredRoles": [
+        "Data Analysis & BI",
+        "Director / General Manager",
+        "Engineering Management",
+        "IT Manager",
+        "Project Manager & Delivery Manager",
+        "Tech Lead",
+        "VP of Engineering"
+      ]
+    },
+    "status": "openToOffers"
   }
 }
