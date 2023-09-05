@@ -198,6 +198,12 @@
     "status": "openToOffers"
   },
   "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "Tableau",
+        "type": "technology"
+      }
+    ],
     "desiredJobDescription": "I would like to lead the data department, to help the company and the people to better understand their businesses and clients with data. Also, help them to grow and improve with data-driven decissions."
   }
 }
