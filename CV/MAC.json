@@ -8,14 +8,8 @@
     "profile": {
       "name": "Víctor",
       "surnames": "Gil Payán",
-      "title": "Data Leader",
-      "description": "Talented, hard worker, leader and all-rounder Data Manager.\nI am able to work well in a team and independently. I am used to managing under pressure besides being\nopen-minded and reliable. I am multidisciplinary with high knowledge of new technologies\nincluding crypto & blockchain. \nI have a high adaptation and learning capacity.\nI am a technology enthusiast, always ready to learn something new.\nSince December 2013, when I discovered Bitcoin and blockchain, I have been investigating and\nstudying around them. I am now running some nodes from different blockchains.\nI have been leading small and medium size data teams through all kind of projects.",
-      "location": {
-        "notes": "Autocompleted using Google Maps API (id: ChIJgTwKgJcpQg0RaSKMYcHeNsQ)",
-        "country": "España",
-        "region": "Comunidad de Madrid",
-        "municipality": "Madrid"
-      }
+      "title": "Head of Analytics & ERP in Sngular | Industrial engineer",
+      "description": "TBD"
     },
     "interestingFacts": [
       {
@@ -38,49 +32,218 @@
     "jobs": [
       {
         "organization": {
-          "name": "Sngular"
+          "name": "SNGULAR"
         },
         "roles": [
           {
-            "name": "Head Analytics & ERP",
-            "startDate": "2018-03-01",
+            "name": "Head of Analytics & ERP",
+            "startDate": "2023-02-01",
             "challenges": [
               {
-                "description": "Lead of the team who manages the data and the ERP in the company. We are in charge of the complete cycle of the data"
+                "description": "Skills: Data Analysis · Business Intelligence · Big data · Estrategia empresarial · Business Strategy · Data Visualization · Project Management · Python · Tableau · SQL · Liderazgo de equipos · Zoho · Herramientas de inteligencia de negocios · Extraer, transformar, cargar (ETL) · Modelado de datos · Gestión de datos · Integración de datos · Planificación de recursos empresariales (ERP) · Gestión de relaciones con atención al cliente (CRM) · Gobierno de datos · Calidad de datos · Análisis de datos · Google Cloud Platform (GCP) · Data Governance"
               }
-            ],
-            "competences": [
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "SNGULAR"
+        },
+        "roles": [
+          {
+            "name": "BI & Analytics Manager",
+            "startDate": "2021-02-01",
+            "challenges": [
               {
-                "name": "BigQuery",
-                "type": "technology"
-              },
+                "description": "TBD"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "SNGULAR"
+        },
+        "roles": [
+          {
+            "name": "Corporate Data & Information Manager",
+            "startDate": "2020-01-01",
+            "finishDate": "2021-02-28",
+            "challenges": [
               {
-                "name": "CRM",
-                "type": "technology"
-              },
+                "description": "Involved from the beginning of the project, I was the person responsible for creating the new analytical model, defining dashboards and metrics. \nIn an international environment and working with C-Level, Managing directors and Senior Managers, the new analytical model is the way in which the company measures the KPIs and OKRs.\nManaging the tools that work as data sources for the KPIs was also important to control data quality. Furthermore, in some cases, some modifications in the ERP were made to gather better data to get more metrics.\n\nMain responsibilities:\n- As responsible for in-house analytics and reporting: I help managers, directors and C-Level to meet the most suitable KPIs and reports that help them in their daily work. \n- I created the data model from the beginning and developed the ETL and the dashboards.\n- I managed the data model and the different integrations between the different information systems of the company.\n- ERP Owner: I managed the different parts of the ERP as well as the integrations among the tools.\n\nSome tools and technologies used:\n - Google Cloud Platform.\n- Google Workspace.\n- Zoho: Analytics, CRM, People, Projects, Recruit, etc."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "SNGULAR"
+        },
+        "roles": [
+          {
+            "name": "Data & Analytcis Team Leader",
+            "startDate": "2018-03-01",
+            "finishDate": "2020-01-31",
+            "challenges": [
               {
-                "name": "Google Apps Script",
-                "type": "technology"
-              },
+                "description": "Main responsibilities: \n- As project manager: dealing with clients, developing offers and solutions, managing projects and helping developers and juniors to reach their goals.\n- As reference of BI and Analytics: I help junior consultants to learn analytical models and tools. Also I work with the Business Managers and architects to offer and design the best suitable solutions for our clients and projects. \n- As Corporate Data Manager: I am responsible for in-house analytics and reporting: I help managers, directors and C-Level to meet the most suitable KPIs and reports that help them in their daily work. I created the data model from the beginning and developed the ETL and the dashboards. That includes managing the ERP and all the data and information of the full company.\n\nThe projects I have developed and managed include the following technologies: \n\n- Cloud environment: Google (GCP) and Azure.\n- Web development: HTML, CSS, Flask (Python)\n- Data Science & Machine Learning: classification, computer vision, ...\n- API: development and usage.\n- Containers: Docker & Kubernetes\n- Repositories: Gitlab / Github\n- Databases: MySQL, PostgreSQL, MongoDB, BigQuery, ...\n- Programming languages: Python, HTML, Markdown, JavaScript, Scala, ...\n- BI Technologies: Tableau, PowerBI, Qlik Sense, ZOHO, Metabase, Grafana, Superset, ...\n\nApart from this, I design and print various objects in 3D printers for IoT projects."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "SERIKAT"
+        },
+        "roles": [
+          {
+            "name": "Business Intelligence Consultant",
+            "startDate": "2016-11-01",
+            "finishDate": "2018-03-31",
+            "challenges": [
               {
-                "name": "Google Cloud",
-                "type": "technology"
-              },
+                "description": "Reporting (Copernicus Servicing):\nObtaining data from SQL Server and generating reports in SSRS and dashboards in Power BI.\n\nT&O Dashboard (Santander Bank):\nLeading the technical team.\nDesign and development of a new dashboard for the board of directors using QlikView and Excel Macros. \n\nProject Cristine 2 (Santander Bank):\nDevelopment and maintenance of business reports for the Risk Department of Banco Santander using SAP BO and SQL Oracle."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "CICE, La Escuela Profesional de Nuevas Tecnologías"
+        },
+        "roles": [
+          {
+            "name": "Tableau and QlikView Trainer",
+            "startDate": "2016-10-01",
+            "finishDate": "2018-04-30",
+            "challenges": [
               {
-                "name": "Python",
-                "type": "technology"
-              },
+                "description": "Teaching Tableau and QlikView in the Master of Business Intelligence. "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "SDG Consulting"
+        },
+        "roles": [
+          {
+            "name": "Business Intelligence Consultant",
+            "startDate": "2015-10-01",
+            "finishDate": "2016-09-30",
+            "challenges": [
               {
-                "name": "SQL",
-                "type": "technology"
-              },
+                "description": "Consultant en SDG Consulting\n\nDevoloping Business Intelligence projects for different companies. \n\nWe help our clients in decision-making through the Business Intelligence tools that implement in their companies.\n\nTeaching advanced formations of Tableau Desktop and Tableau Server for technical users and business users.\n\nMain tools: Tableau, Lumira, SAP BO."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Indra"
+        },
+        "roles": [
+          {
+            "name": "System Engineer",
+            "startDate": "2014-06-01",
+            "finishDate": "2015-09-30",
+            "challenges": [
               {
-                "name": "Tableau",
-                "type": "technology"
-              },
+                "description": "Working as System Engineer in Indra. \nBusiness Analytics in Finance Industry.\n\nManaging and developing projects for different Datamarts for ISBAN (Banco Santander) with the Elab and with the final user.\n\nSoftware used: PowerCenter 8 & 9 (Informatica), SAP BO 3 & 4, ALM, Datamodeler, Remedy, QlikView, ALM.\n\nI have also taught some courses about BI software like QlikView and Keen.IO\n\nMentor of trainees.\n\nInternational projectos for Sovereign (Santander US) and Santander UK"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Atos"
+        },
+        "roles": [
+          {
+            "name": "Stress Engineer in Atos Engineering; working in the project of Airbus A350 XWB",
+            "startDate": "2012-11-01",
+            "finishDate": "2013-07-31",
+            "challenges": [
               {
-                "name": "Zoho",
-                "type": "technology"
+                "description": "Calculating the structure of the section 19 of the Airbus A350 XWB.\nWorking with Metallic and Composite Materials."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Oracle"
+        },
+        "roles": [
+          {
+            "name": "Internship in the Consulting department of Oracle",
+            "startDate": "2011-11-01",
+            "finishDate": "2012-09-30",
+            "challenges": [
+              {
+                "description": "Supporting the activities of the department as well as manager activities.\nParticipating in the project to a client enterprise.\nObtaining of the certificate \"High Potential Student Program\"."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Vinsa"
+        },
+        "roles": [
+          {
+            "name": "Security guard",
+            "startDate": "2008-03-01",
+            "finishDate": "2011-07-31",
+            "challenges": [
+              {
+                "description": "Working during the three and a half years while I was completing my studies."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Decathlon Internacional"
+        },
+        "roles": [
+          {
+            "name": "Seller",
+            "startDate": "2007-10-01",
+            "finishDate": "2008-01-31",
+            "challenges": [
+              {
+                "description": "Seller of the cycling section during my second year at university."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Carrefour"
+        },
+        "roles": [
+          {
+            "name": "Cashier",
+            "startDate": "2006-07-01",
+            "finishDate": "2007-01-31",
+            "challenges": [
+              {
+                "description": "Working during my first year of studying."
               }
             ]
           }
@@ -192,26 +355,6 @@
         "skill": {
           "name": "Zoho",
           "type": "technology"
-        }
-      }
-    ],
-    "softSkills": [
-      {
-        "skill": {
-          "name": "Analytical thinking",
-          "type": "practice"
-        }
-      },
-      {
-        "skill": {
-          "name": "Continuous learning",
-          "type": "practice"
-        }
-      },
-      {
-        "skill": {
-          "name": "Strategic vision",
-          "type": "practice"
         }
       }
     ]
