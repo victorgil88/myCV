@@ -200,6 +200,10 @@
   "manfredSpecificData": {
     "mainStackTechs": [
       {
+        "name": "Google Cloud",
+        "type": "technology"
+      },
+      {
         "name": "SQL",
         "type": "technology"
       },
