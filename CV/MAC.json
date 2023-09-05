@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "ES",
+    "language": "EN",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -9,28 +9,14 @@
       "name": "Víctor",
       "surnames": "Gil Payán",
       "title": "Data Lover and blockchain superfan",
-      "description": "",
+      "description": "Talented, hard worker and all-rounder Data Lover, specialized in Business Intelligence and Data\nVisualization. I also work in Big Data, Data Governance and Data Science projects. I am able to\nwork well in a team and independently. I am used to managing under pressure besides being\nopen-minded and reliable. I am multidisciplinary with high knowledge of new technologies\nincluding crypto & blockchain. I have a high adaptation and learning capacity.\nI am a technology enthusiast, always ready to learn something new.\nSince December 2013, when I discovered Bitcoin and blockchain, I have been investigating and\nstudying around them. I am now running some nodes from different blockchains.",
       "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJgTwKgJcpQg0RaSKMYcHeNsQ)",
         "country": "España",
         "region": "Comunidad de Madrid",
-        "municipality": "Madrid",
-        "notes": "Autocompleted using Google Maps API"
+        "municipality": "Madrid"
       }
     },
-    "relevantLinks": [
-      {
-        "type": "github",
-        "URL": "https://github.com/victorgil88"
-      },
-      {
-        "type": "other",
-        "URL": "https://public.tableau.com/profile/victorgil88#!/"
-      },
-      {
-        "type": "linkedin",
-        "URL": "https://www.linkedin.com/in/victorgilpayan/"
-      }
-    ],
     "interestingFacts": [
       {
         "topic": "Crypto & Blockchain",
@@ -40,69 +26,39 @@
         "topic": "Sports",
         "fact": "I love doing sport, any kind of sport. I have practiced:\n- Soccer\n- Running\n- Swimming\n- Crossfit / Crosstraining\n- Powerlifting & Weightlifting\n- Tennins & Paddel\n- Climbing"
       }
+    ],
+    "relevantLinks": [
+      {
+        "type": "other",
+        "URL": "https://public.tableau.com/profile/victorgil88#!/"
+      }
     ]
   },
   "knowledge": {
     "languages": [
       {
-        "name": "English",
+        "name": "EN",
         "level": "Full professional proficiency"
       },
       {
-        "name": "French",
-        "level": "Limited working proficiency"
+        "name": "ES",
+        "level": "Native or bilingual proficiency"
       },
       {
-        "name": "Spanish",
-        "level": "Native or bilingual proficiency"
+        "name": "FR",
+        "level": "Limited working proficiency"
       }
     ],
     "hardSkills": [
       {
         "skill": {
+          "name": "API",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Azure",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Qlik",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Google Cloud",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Microsoft Power BI",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Docker",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Looker",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Tableau",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Google Data Studio",
           "type": "technology"
         }
       },
@@ -114,13 +70,7 @@
       },
       {
         "skill": {
-          "name": "JavaScript",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "API",
+          "name": "Docker",
           "type": "technology"
         }
       },
@@ -132,7 +82,31 @@
       },
       {
         "skill": {
-          "name": "Zoho",
+          "name": "Google Cloud",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Google Data Studio",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Looker",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Microsoft Power BI",
           "type": "technology"
         }
       },
@@ -144,8 +118,46 @@
       },
       {
         "skill": {
+          "name": "Qlik",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "SQL",
           "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Tableau",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Zoho",
+          "type": "technology"
+        }
+      }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Analytical thinking",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Continuous learning",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Strategic vision",
+          "type": "practice"
         }
       }
     ]
@@ -154,8 +166,21 @@
     "contact": {
       "publicProfiles": [
         {
-          "type": "linkedin",
-          "URL": "https://www.linkedin.com/in/victorgilpayan/"
+          "URL": "https://www.linkedin.com/in/victorgilpayan/",
+          "type": "linkedin"
+        },
+        {
+          "URL": "https://github.com/victorgil88",
+          "type": "github"
+        }
+      ],
+      "contactMails": [
+        "victorgil88@gmail.com"
+      ],
+      "phoneNumbers": [
+        {
+          "number": "687040532",
+          "countryCode": "+34"
         }
       ]
     },
@@ -171,5 +196,8 @@
       ]
     },
     "status": "openToOffers"
+  },
+  "manfredSpecificData": {
+    "desiredJobDescription": "I would like to lead the data department, to help the company and the people to better understand their businesses and clients with data. Also, help them to grow and improve with data-driven decissions."
   }
 }
