@@ -34,6 +34,60 @@
       }
     ]
   },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Sngular"
+        },
+        "roles": [
+          {
+            "name": "Head Analytics & ERP",
+            "startDate": "2018-03-01",
+            "challenges": [
+              {
+                "description": "Lead of the team who manages the data and the ERP in the company. We are in charge of the complete cycle of the data"
+              }
+            ],
+            "competences": [
+              {
+                "name": "BigQuery",
+                "type": "technology"
+              },
+              {
+                "name": "CRM",
+                "type": "technology"
+              },
+              {
+                "name": "Google Apps Script",
+                "type": "technology"
+              },
+              {
+                "name": "Google Cloud",
+                "type": "technology"
+              },
+              {
+                "name": "Python",
+                "type": "technology"
+              },
+              {
+                "name": "SQL",
+                "type": "technology"
+              },
+              {
+                "name": "Tableau",
+                "type": "technology"
+              },
+              {
+                "name": "Zoho",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
   "knowledge": {
     "languages": [
       {
@@ -201,6 +255,14 @@
     "mainStackTechs": [
       {
         "name": "Google Cloud",
+        "type": "technology"
+      },
+      {
+        "name": "Microsoft Power BI",
+        "type": "technology"
+      },
+      {
+        "name": "Python",
         "type": "technology"
       },
       {
