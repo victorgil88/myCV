@@ -200,6 +200,10 @@
   "manfredSpecificData": {
     "mainStackTechs": [
       {
+        "name": "SQL",
+        "type": "technology"
+      },
+      {
         "name": "Tableau",
         "type": "technology"
       }
