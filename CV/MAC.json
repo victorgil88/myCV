@@ -9,7 +9,13 @@
       "name": "Víctor",
       "surnames": "Gil Payán",
       "title": "Head of Analytics & ERP in Sngular | Industrial engineer",
-      "description": "TBD"
+      "description": "TBD",
+      "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJ4x60DS2JQQ0Rz8L9kb39zlY)",
+        "country": "España",
+        "region": "Comunidad de Madrid",
+        "municipality": "Alcorcón"
+      }
     },
     "interestingFacts": [
       {
