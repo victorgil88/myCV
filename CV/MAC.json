@@ -1,8 +1,8 @@
 {
-  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
   "settings": {
     "language": "EN",
-    "MACVersion": "0.3"
+    "MACVersion": "0.5"
   },
   "aboutMe": {
     "profile": {
@@ -29,6 +29,14 @@
     ],
     "relevantLinks": [
       {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/victorgilpayan/"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/victorgil88"
+      },
+      {
         "type": "other",
         "URL": "https://public.tableau.com/profile/victorgil88#!/"
       }
@@ -36,6 +44,31 @@
   },
   "experience": {
     "jobs": [
+      {
+        "organization": {
+          "name": "Universidad Europea"
+        },
+        "roles": [
+          {
+            "name": "Manager Data Analytics & Architecture",
+            "startDate": "2024-07-01",
+            "competences": [
+              {
+                "name": "Microsoft Power BI",
+                "type": "technology"
+              },
+              {
+                "name": "Python",
+                "type": "technology"
+              },
+              {
+                "name": "SQL",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
       {
         "organization": {
           "name": "SNGULAR"
@@ -261,14 +294,17 @@
     "languages": [
       {
         "name": "EN",
+        "fullName": "Inglés",
         "level": "Full professional proficiency"
       },
       {
         "name": "ES",
+        "fullName": "Español",
         "level": "Native or bilingual proficiency"
       },
       {
         "name": "FR",
+        "fullName": "Francés",
         "level": "Limited working proficiency"
       }
     ],
@@ -317,13 +353,13 @@
       },
       {
         "skill": {
-          "name": "JavaScript",
+          "name": "Google Looker Studio",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Looker",
+          "name": "JavaScript",
           "type": "technology"
         }
       },
@@ -379,17 +415,11 @@
       ],
       "contactMails": [
         "victorgil88@gmail.com"
-      ],
-      "phoneNumbers": [
-        {
-          "number": "687040532",
-          "countryCode": "+34"
-        }
       ]
     },
     "preferences": {
       "preferredRoles": [
-        "Data Analysis & BI",
+        "Data Analyst & BI",
         "Director / General Manager",
         "Engineering Management",
         "IT Manager",
